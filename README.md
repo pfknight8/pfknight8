@@ -1,3 +1,5 @@
+![KI Sunset](Kelleys_Island_Sunset_2022_Banner.png)
+
 # Patrick Knight
 
 <!--
