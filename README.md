@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 #### Find me on LinkedIn:
 ![LinkedIn](https://www.linkedin.com/in/patrick-f-knight/)
 
-#### Visin my portfolio:
+#### Visit my portfolio:
 ![Portfolio](https://patrick-f-knight.surge.sh/)
 
 ---
