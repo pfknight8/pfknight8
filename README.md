@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 ![LinkedIn](https://www.linkedin.com/in/patrick-f-knight/)
 
 #### Visit my portfolio:
-![Portfolio](https://patrick-f-knight.surge.sh/)
+![Portfolio](https://patrick-f-knight.surge.sh)
 
 ---
