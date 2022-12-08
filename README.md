@@ -28,6 +28,12 @@ Here are some ideas to get you started:
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pfknight8&layout=compact&theme=swift" height="150" />
+</p>
+
+---
+
 #### Find me on LinkedIn:
 [LinkedIn](https://www.linkedin.com/in/patrick-f-knight/)
 
